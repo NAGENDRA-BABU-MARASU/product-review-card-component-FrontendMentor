@@ -45,7 +45,8 @@ Users should be able to:
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
-
+- learned about css flexbox
+- object fit properties
 
 ## Author
 
